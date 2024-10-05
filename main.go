@@ -1,7 +1,7 @@
 package main
 
 import (
-	"assignment01bca" // Importing your custom package
+	"assignment01bca"
 	"fmt"
 )
 
