@@ -45,7 +45,3 @@ This project is structured to allow easy enhancements and modifications to the b
 ## Contribution
 
 Contributions are welcome. Please fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
